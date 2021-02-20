@@ -13,10 +13,10 @@
     <img src="images/logo.png" alt="Logo" width="95" height="95">
   </a>
 
-  <h1 align="center">COVID-19 Date Selector</h1>
+  <h1 align="center">Visual Aid Transducer</h1>
 
   <p align="center">
-    Visualize the spread of the coronavirus on a day-by-day basis.
+    Transduce one's surroundings to haptic feedback.
     <br />
     <a href="https://github.com/chinarjoshi/visual-aid-transducer"><strong>Explore the docs »</strong></a>
     <br />
