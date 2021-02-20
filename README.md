@@ -40,7 +40,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#gallery">Gallery</a></li>
   </ol>
@@ -68,8 +67,8 @@ We successfully created and prototyped a device that helps visually impaired peo
 
 ### Built With
 
-* [Arduino](https://plotly.com/dash)
-* [Adafruit Motorshield](https://getbootstrap.com)
+* [Arduino](https://arduino.cc)
+* [Adafruit Motorshield](https://adafruit.com/product/1438)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -77,32 +76,6 @@ We successfully created and prototyped a device that helps visually impaired peo
 Once the battery pack is connected and the driver program is uploaded, the motors will automatically begin to vibrate based on one's distance to their surroudings.
 
 _For more examples, please refer to the [Documentation](https://github.com/chinarjoshi/visual-aid-transducer)_
-
-<!-- ROADMAP -->
-## Roadmap
-
-__See the [open issues](https://github.com/chinarjoshi/visual-aid-transducer) for a list of proposed features (and known issues).__
-<br>
-
-The following features will be implemented in the indefinite future:
-1. Expanded dataset to include:
-    - Mask usage
-    - Population Density
-    - Demographic breakdown
-2.  Dark theme
-3.  An option to use the program in the command line
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Any contributions to extend features are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/newFeature`)
-3. Commit your Changes (`git commit -m 'Add NewFeature'`)
-4. Push to the Branch (`git push origin feature/newFeature`)
-5. Open a Pull Request
 
 <!-- CONTACT -->
 ## Contact
