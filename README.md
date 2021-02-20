@@ -42,6 +42,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#gallery">Gallery</a></li>
   </ol>
 </details>
 
@@ -49,14 +50,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/deaths.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
-
 
 ### Inspiration
 One of our team member's grandparents has become visually impaired, so we had the idea to create a wearable gadget to help people like him navigate the world. This project was submitted to Lemelson-MIT Inventeam, a national competition to create an innovation to benefit society.
@@ -81,43 +74,7 @@ We successfully created and prototyped a device that helps visually impaired peo
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
-Once the battery pack is connected and the driver program is uploaded, the motors will begin to vibrate based on one's distance to their surroudings.
+Once the battery pack is connected and the driver program is uploaded, the motors will automatically begin to vibrate based on one's distance to their surroudings.
 
 _For more examples, please refer to the [Documentation](https://github.com/chinarjoshi/visual-aid-transducer)_
 
@@ -153,6 +110,44 @@ Any contributions to extend features are **greatly appreciated**.
 Chinar Joshi - chinarjoshi7@gmail.com
 
 Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.com/chinarjoshi/visual-aid-transducer)
+
+## Gallery
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="images/original.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="images/original.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="images/original.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="images/original.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="images/original.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="images/original.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
 
 
 ## Acknowledgements
