@@ -59,10 +59,10 @@
 
 
 ### Inspiration
-One of our team member's grandparents has become visually impaired, so we had the idea to create a wearable gadget to help people like him navigate the world.
+One of our team member's grandparents has become visually impaired, so we had the idea to create a wearable gadget to help people like him navigate the world. This project was submitted to Lemelson-MIT Inventeam, a national competition to create an innovation to benefit society.
 
 ### What it does
-This is a wearable gadget that transduces the distance of obstacles to a 
+This is a wearable gadget that transduces the distance of obstacles to haptic feedback in order to better visualize one's surroundings.
 
 ### How we built it
 The device consists of 3 main parts: a 3d printed cast to hold the electronics in the shape of a neckband, an arduino circuit to combine ultrasonic sensors, haptic feedback motors, and the microcontroller, and finally the program to create the actual function. 
@@ -71,25 +71,12 @@ The device consists of 3 main parts: a 3d printed cast to hold the electronics i
 It was difficult to actually find the data in a usable form online, because it was either fragmented or contained irrelevant data to my purpose. This introduced me to the pandas libraries to clean and filter the dataset. I've also never worked with visualizations of datasets before, so the hardest part was actually starting.
 
 ### Accomplishments that we're proud of
-I created my first deployable web API and made a visually appealing application to solve a real world problem, while introducing me to data science concepts along the way.
+We successfully created and prototyped a device that helps visually impaired people navigate the world, which has the potential to benefit society.
 
 ### Built With
 
 * [Arduino](https://plotly.com/dash)
 * [Adafruit Motorshield](https://getbootstrap.com)
-
-
-## Getting Started
-
-No API key is needed to access the tool, so the application may be locally run through the python file.
-
-### Prerequisites
-
-The prerequisite frameworks and libraries are dash, plotly, and pandas.
-* pip
-  ```sh
-  pip install requirements.txt
-  ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -100,7 +87,37 @@ The prerequisite frameworks and libraries are dash, plotly, and pandas.
   </a>
 </p>
 
-This tool can be used for research purposes to find the exact number of cases in a specific county on any day. It is useful to see the patterns of infection and death rate increases/decreases. For example, it can be seen that the number of infections skyrocketed in early January after the holiday season. The tool is useful for establishing patterns such as this.
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="images/original.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="images/original.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="images/original.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="images/original.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="images/original.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+Once the battery pack is connected and the driver program is uploaded, the motors will begin to vibrate based on one's distance to their surroudings.
 
 _For more examples, please refer to the [Documentation](https://github.com/chinarjoshi/visual-aid-transducer)_
 
