@@ -21,7 +21,7 @@
     <a href="https://github.com/chinarjoshi/visual-aid-transducer"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://youtu.be/v6lsjcFfK9Q">View Demo</a>
+    <a href="https://youtu.be/ci213btXDe0">View Demo</a>
     ·
     <a href="https://github.com/chinarjoshi/visual-aid-transducer">Report Bug</a>
     ·
@@ -61,7 +61,7 @@ This is a wearable gadget that transduces the distance of obstacles to haptic fe
 The device consists of 3 main parts: a 3d printed cast to hold the electronics in the shape of a neckband, an arduino circuit to combine ultrasonic sensors, haptic feedback motors, and the microcontroller, and finally the program to create the actual function. 
 
 ### Challenges we ran into
-It was difficult to actually find the data in a usable form online, because it was either fragmented or contained irrelevant data to my purpose. This introduced me to the pandas libraries to clean and filter the dataset. I've also never worked with visualizations of datasets before, so the hardest part was actually starting.
+There was initial difficulty coordinating all parts of the project. In the end, we learned effective communication skills and gained experience in the prototyping cycle.
 
 ### Accomplishments that we're proud of
 We successfully created and prototyped a device that helps visually impaired people navigate the world, which has the potential to benefit society.
