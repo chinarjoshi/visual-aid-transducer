@@ -111,44 +111,7 @@ Chinar Joshi - chinarjoshi7@gmail.com
 
 Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.com/chinarjoshi/visual-aid-transducer)
 
-## Gallery
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/original.png" alt="example-image" width=900 height=600>
-  </a>
-</p>
-
+Linkedin: https://linkedin.com/in/chinar-joshi-905493207/
 
 ## Acknowledgements
 * [Readme Template](https://github.com/othneildrew/Best-README-Template)
@@ -156,6 +119,56 @@ Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.
 * [GitHub Pages](https://pages.github.com)
 * [Animate.css](https://daneden.github.io/animate.css)
 * [Loaders.css](https://connoratherton.com/loaders)
+
+## Gallery
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="Visual/Front.PNG" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="Visual/Back1.PNG" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="Visual/Back2.PNG" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="Visual/Back3.PNG" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="Visual/Demo.PNG" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="Visual/Hinge.PNG" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="Visual/IMG_2990.PNG" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
+    <img src="Visual/Sensor.PNG" alt="example-image" width=900 height=600>
+  </a>
+</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
