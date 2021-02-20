@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="images/logo.png" alt="Logo" width="95" height="95">
+    <img src="Visual/Logo.png" alt="Logo" width="500" height="300">
   </a>
 
   <h1 align="center">Visual Aid Transducer</h1>
