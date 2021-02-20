@@ -40,6 +40,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#gallery">Gallery</a></li>
   </ol>
@@ -70,12 +72,23 @@ We successfully created and prototyped a device that helps visually impaired peo
 * [Arduino](https://arduino.cc)
 * [Adafruit Motorshield](https://adafruit.com/product/1438)
 
+
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Once the battery pack is connected and the driver program is uploaded, the motors will automatically begin to vibrate based on one's distance to their surroudings.
 
 _For more examples, please refer to the [Documentation](https://github.com/chinarjoshi/visual-aid-transducer)_
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
 
 <!-- CONTACT -->
 ## Contact
@@ -92,6 +105,8 @@ Linkedin: https://linkedin.com/in/chinar-joshi-905493207/
 * [GitHub Pages](https://pages.github.com)
 * [Animate.css](https://daneden.github.io/animate.css)
 * [Loaders.css](https://connoratherton.com/loaders)
+
+
 
 ## Gallery
 
