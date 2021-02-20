@@ -157,7 +157,7 @@ Linkedin: https://linkedin.com/in/chinar-joshi-905493207/
 [issues-shield]: https://img.shields.io/github/issues/chinarjoshi/visual-aid-transducer?style=for-the-badge
 [issues-url]: https://github.com/chinarjoshi/visual-aid-transducer/issues
 [license-shield]: https://img.shields.io/github/license/chinarjoshi/visual-aid-transducer?style=for-the-badge
-[license-url]: https://github.com/chinarjoshi/visual-aid-transducer/blob/master/LICENSE.txt
+[license-url]: https://github.com/chinarjoshi/visual-aid-transducer/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chinar-joshi-905493207/
 [product-screenshot]: images/screenshot.png
