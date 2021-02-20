@@ -148,12 +148,6 @@ Linkedin: https://linkedin.com/in/chinar-joshi-905493207/
 
 <p align="center">
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
-    <img src="Visual/Hinge.PNG" alt="example-image" width=875 height=500>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chinarjoshi/visual-aid-transducer">
     <img src="Visual/IMG_2990.PNG" alt="example-image" width=875 height=500>
   </a>
 </p>
