@@ -13,7 +13,7 @@
     <img src="Visual/Logo.png" alt="Logo" width="500" height="300">
   </a>
 
-  <h2 align="center">Visual Aid Transducer</h2>
+  <h1 align="center">Visual Aid Transducer</h1>
 
   <p align="center">
     Navigate the world better for visually impaired people
