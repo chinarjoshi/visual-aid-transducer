@@ -23,9 +23,9 @@
     <br />
     <a href="https://youtu.be/ci213btXDe0">View Demo</a>
     ·
-    <a href="https://github.com/chinarjoshi/visual-aid-transducer">Report Bug</a>
+    <a href="https://github.com/chinarjoshi/visual-aid-transducer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/chinarjoshi/visual-aid-transducer">Request Feature</a>
+    <a href="https://github.com/chinarjoshi/visual-aid-transducer/issues">Request Feature</a>
   </p>
 </p>
 
