@@ -117,14 +117,13 @@ Project Link: [Github](https://github.com/chinarjoshi/visual-aid-transducer)
 ## Gallery
 <p align="center">Front view:</p>
 <p align="center">
-  
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
     <img src="Visual/Front.PNG" alt="example-image" width=875 height=500>
   </a>
 </p>
 
+<p align="center">Back View:</p>
 <p align="center">
-  Back view:
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
     <img src="Visual/Back3.PNG" alt="example-image" width=875 height=500>
   </a>
