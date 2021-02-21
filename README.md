@@ -106,6 +106,7 @@ Project Link: [Github](https://github.com/chinarjoshi/visual-aid-transducer/issu
 
 
 ## Acknowledgements
+* [Our Team](https://m.youtube.com/watch?v=ci213btXDe0&feature=youtu.be)
 * [Readme Template](https://github.com/othneildrew/Best-README-Template)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
