@@ -129,6 +129,7 @@ Project Link: [Github](https://github.com/chinarjoshi/visual-aid-transducer)
   </a>
 </p>
 
+<p align="center">Side View:</p>
 <p align="center">
   Side view:
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
@@ -136,18 +137,21 @@ Project Link: [Github](https://github.com/chinarjoshi/visual-aid-transducer)
   </a>
 </p>
 
+<p align="center">Back View:</p>
 <p align="center">
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
     <img src="Visual/Demo.PNG" alt="example-image" width=875 height=500>
   </a>
 </p>
 
+<p align="center">Back View:</p>
 <p align="center">
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
     <img src="Visual/IMG_2990.PNG" alt="example-image" width=875 height=500>
   </a>
 </p>
 
+<p align="center">Back View:</p>
 <p align="center">
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
     <img src="Visual/Sensor.PNG" alt="example-image" width=875 height=500>
