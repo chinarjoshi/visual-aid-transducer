@@ -102,7 +102,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Chinar Joshi - chinarjoshi7@gmail.com - [Linkedin](https://linkedin.com/in/chinar-joshi-905493207/)
 
-Project Link: [Github](https://github.com/chinarjoshi/visual-aid-transducer)
+Project Link: [Github](https://github.com/chinarjoshi/visual-aid-transducer/issues)
 
 
 ## Acknowledgements
