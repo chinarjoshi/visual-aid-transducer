@@ -16,7 +16,7 @@
   <h1 align="center">Visual Aid Transducer</h1>
 
   <p align="center">
-    Transduce one's surroundings to haptic feedback.
+    Navigate the world easier for visually impaired people
     <br />
     <a href="https://github.com/chinarjoshi/visual-aid-transducer"><strong>Explore the docs »</strong></a>
     <br />
