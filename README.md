@@ -136,21 +136,21 @@ Project Link: [Github](https://github.com/chinarjoshi/visual-aid-transducer)
   </a>
 </p>
 
-<p align="center">Back View:</p>
+<p align="center">Demonstration of functionality as distances are output to serial monitor:</p>
 <p align="center">
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
     <img src="Visual/Demo.PNG" alt="example-image" width=875 height=500>
   </a>
 </p>
 
-<p align="center">Back View:</p>
+<p align="center">View of the internals comprising of ultrasonic sensors and DC motors:</p>
 <p align="center">
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
     <img src="Visual/IMG_2990.PNG" alt="example-image" width=875 height=500>
   </a>
 </p>
 
-<p align="center">Back View:</p>
+<p align="center">3d printed ultrasonic sensor cast:</p>
 <p align="center">
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
     <img src="Visual/Sensor.PNG" alt="example-image" width=875 height=500>
