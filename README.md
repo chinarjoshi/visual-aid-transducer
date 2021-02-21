@@ -131,7 +131,6 @@ Project Link: [Github](https://github.com/chinarjoshi/visual-aid-transducer)
 
 <p align="center">Side View:</p>
 <p align="center">
-  Side view:
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
     <img src="Visual/Back2.PNG" alt="example-image" width=875 height=500>
   </a>
