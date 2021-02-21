@@ -31,7 +31,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary><h4>Table of Contents</h4></summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
