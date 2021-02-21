@@ -66,7 +66,7 @@ One of our team member's grandparents has become visually impaired, so we had th
 This is a wearable gadget that transduces the distance of obstacles to haptic feedback in order to better visualize one's surroundings.
 
 ### How we built it
-The device consists of 3 main parts: a 3d printed cast to hold the electronics in the shape of a neckband, an arduino circuit to combine ultrasonic sensors, haptic feedback motors, and the microcontroller, and finally the program to create the actual function. 
+The device consists of 3 main parts: a 3D printed cast to hold the electronics in the shape of a neckband, an arduino circuit to combine ultrasonic sensors, haptic feedback motors, and the microcontroller, and finally the program to create the actual function. 
 
 ### Challenges we ran into
 There was initial difficulty coordinating all parts of the project. In the end, we learned effective communication skills and gained experience in the prototyping cycle.
@@ -150,7 +150,7 @@ Project Link: [Github](https://github.com/chinarjoshi/visual-aid-transducer/issu
   </a>
 </p>
 
-<p align="center">3d printed ultrasonic sensor cast:</p>
+<p align="center">3D printed ultrasonic sensor cast:</p>
 <p align="center">
   <a href="https://github.com/chinarjoshi/visual-aid-transducer">
     <img src="Visual/Sensor.PNG" alt="example-image" width=875 height=500>
