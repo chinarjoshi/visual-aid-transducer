@@ -52,13 +52,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<h3 align="center">
-  This project was submitted to
-  <a href="https://lemelson.mit.edu/inventeams">
-    Lemelson-MIT Inventeam
-  </a>
-</h3>
-
 ### Inspiration
 One of our team member's grandparents has become visually impaired, so we had the idea to create a wearable gadget to help people like him navigate the world. This project was submitted to Lemelson-MIT Inventeam, a national competition to create an innovation to benefit society.
 
