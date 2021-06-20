@@ -1,5 +1,5 @@
 ---
-title: "IoTools"
+title: "Visual Aid Transducer"
 layout: splash
 permalink: /
 
@@ -26,14 +26,14 @@ feature_row:
     alt: "GitHub"
     title: "See on GitHub"
     excerpt: "The repository is open sourced by MIT license on GitHub. Browse the implementation and commit history."
-    url: "https://github.com/chinarjoshi/iotools"
+    url: "https://github.com/chinarjoshi/visual-aid-transducer"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/issues.png
     alt: "Open issues"
     title: "Open issues"
     excerpt: "Any open issues, bugs to implement, and features to fix."
-    url: "https://github.com/chinarjoshi/iotools/issues"
+    url: "https://github.com/chinarjoshi/visual-aid-transducer/issues"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
