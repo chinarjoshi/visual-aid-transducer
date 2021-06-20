@@ -4,15 +4,13 @@ layout: splash
 permalink: /
 
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: assets/images/splash.jpg
+  overlay_color: "#252528"
   actions:
     - label: "<i class='fas fa-download'></i> Download ZIP"
-      url: "https://github.com/chinarjoshi"
+      url: "https://github.com/chinarjoshi/visual-aid-transducer/archive/refs/heads/main.zip"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: >
-  Intuitive tools for managing hobbyist internet of things applications.<br />
+  Navigate the world with haptic feedback for visually impaired people<br />
 
 feature_row:
   - image_path: /assets/images/docs.png
